@@ -26,13 +26,16 @@ class Constitution (object):
 
 class Article (object):
 
-    def __init__(self, number, sections):
+    def __init__(self, number, sections, name=None):
         self.number = number
         self.sections = sections
+        self.name = name
 
     def as_markdown(self):
-        parts = ["## Article %s" % self.number] \
-              + [section.as_markdown() for section in self.sections]
+        header = "## Article %s" % self.number
+        if self.name is not None:
+            header += " (%s)" % self.name
+        parts = [header] + [section.as_markdown() for section in self.sections]
         return "\n\n".join(parts)
 
 class Section (object):
@@ -94,14 +97,6 @@ def get_article_filenames(cache_dir):
     for line in open(ifn):
         article_fns.append(os.path.join(cache_dir, line.strip()))
     return article_fns
-#    fns = []
-#    toc_fn = os.path.join(cache_dir, "toc.html")
-#    toc = readfile(toc_fn)
-#    soup = BeautifulSoup.BeautifulSoup(toc)
-#    for a in soup.findAll('a', href=re.compile("^.const")):
-#        afn = a['href'][8:] # strip off ^.const/.
-#        fns.append(os.path.join(cache_dir, afn))
-#    return fns
 
 def parse_preamble(fn):
     text = readfile(fn)
@@ -115,16 +110,21 @@ def parse_article(fn):
     number = fn.split('_')[-1]
     text = readfile(fn)
     text = re.sub(r"\r", "", text)
+    # get article name
+    pattern = r"^CALIFORNIA CONSTITUTION\nARTICLE %s  [(\[]?([\w,\- ]+)[)\]]?$" % number
+    m = re.search(pattern, text, re.M)
+    name = m.group(1).upper()
     # the weird "o?\n?" fixes bugs in articles 10 & 10B
     pattern = r"^o?\n?CALIFORNIA CONSTITUTION\nARTICLE %s  [ \S]+$" % number
     section_texts = filter_blanks(re.split(pattern, text, flags=re.M))
     sys.stdout.write("parsing %3s:" % number)
     sections = [parse_section(text) for text in section_texts]
     print
-    return Article(number, sections)
+    return Article(number, sections, name=name)
 
 def parse_section(text):
     text = text.strip()
+    # some sections are [bracketed]; not sure why
     pattern = r"\[?(section|sec\.) ([\d./]+)\.\]? "
     m = re.match(pattern, text, re.I)
     try:

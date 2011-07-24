@@ -4,7 +4,7 @@ We, the People of the State of California, grateful to Almighty God for our
 freedom, in order to secure and perpetuate its blessings, do establish this
 Constitution.
 
-## Article 1
+## Article 1 (DECLARATION OF RIGHTS)
 
 ### Section 1
 
@@ -789,7 +789,7 @@ maximum extent that federal law and the United States Constitution
 permit.  Any provision held invalid shall be severable from the
 remaining portions of this section.
 
-## Article 2
+## Article 2 (VOTING, INITIATIVE AND REFERENDUM, AND RECALL)
 
 ### Section 1
 
@@ -1072,7 +1072,7 @@ Constitution, other than Members of the Legislature, commence on the
 Monday after January 1 following election. The election shall be held
 in the last even-numbered year before the term expires.
 
-## Article 3
+## Article 3 (STATE OF CALIFORNIA)
 
 ### Section 1
 
@@ -1358,7 +1358,7 @@ successor fund.  For purposes of this section, surplus state property
 does not include property purchased with revenues described in
 Article XIX or any other special fund moneys.
 
-## Article 4
+## Article 4 (LEGISLATIVE)
 
 ### Section 1
 
@@ -2046,7 +2046,7 @@ are appropriated expressly for such purposes.
 for ordinary repair and maintenance of the State Capitol building,
 fixtures and furniture.
 
-## Article 5
+## Article 5 (EXECUTIVE)
 
 ### Section 1
 
@@ -2258,7 +2258,7 @@ Commissioner, Secretary of State, Superintendent of Public
 Instruction, Treasurer, and member of the State Board of
 Equalization.
 
-## Article 6
+## Article 6 (JUDICIAL)
 
 ### Section 1
 
@@ -2759,7 +2759,7 @@ The Legislature may provide for the appointment by trial
 courts of record of officers such as commissioners to perform
 subordinate judicial duties.
 
-## Article 7
+## Article 7 (PUBLIC OFFICERS AND EMPLOYEES)
 
 ### Section 1
 
@@ -2997,7 +2997,7 @@ or circumstance is held invalid, the invalidity shall not affect
 other provisions or applications which reasonably can be given effect
 without the invalid provision or application.
 
-## Article 9
+## Article 9 (EDUCATION)
 
 ### Section 1
 
@@ -3309,7 +3309,7 @@ separate questions.  The failure of any such separate question to be
 approved shall have the result of continuing in effect the applicable
 existing law with respect to that board of education.
 
-## Article 10
+## Article 10 (WATER)
 
 ### Section 1
 
@@ -3395,7 +3395,7 @@ by the agency to conform to the laws of California as to the
 acquisition, control, use, and distribution of water with respect to
 the land so acquired.
 
-## Article 10A
+## Article 10A (WATER RESOURCES DEVELOPMENT)
 
 ### Section 1
 
@@ -3562,7 +3562,7 @@ This article shall have no force or effect unless Senate
 Bill No. 200 of the 1979-80 Regular Session of the Legislature is
 enacted and takes effect.
 
-## Article 10B
+## Article 10B (MARINE RESOURCES PROTECTION ACT OF 1990)
 
 ### Section 1
 
@@ -3834,7 +3834,7 @@ article which can be given effect without the invalid provision or
 application, and to this end the provisions of this article are
 severable.
 
-## Article 11
+## Article 11 (LOCAL GOVERNMENT)
 
 ### Section 1
 
@@ -4120,7 +4120,7 @@ cities, counties, and cities and counties in the same pro rata
 amounts and for the same purposes as are revenues subject to
 subdivision (a).
 
-## Article 12
+## Article 12 (PUBLIC UTILITIES)
 
 ### Section 1
 
@@ -4206,7 +4206,7 @@ The provisions of this article restate all related
 provisions of the Constitution in effect immediately prior to the
 effective date of this amendment and make no substantive change.
 
-## Article 13
+## Article 13 (TAXATION)
 
 ### Section 1
 
@@ -5177,7 +5177,7 @@ supersede any other provisions of this Constitution that are in
 conflict with the provisions of this section, including, but not
 limited to, Section 9 of Article II.
 
-## Article 13A
+## Article 13A (TAX LIMITATION)
 
 ### Section 1
 
@@ -5638,7 +5638,7 @@ effect.
 Section 3 of this article does not apply to the California
 Children and Families First Act of 1998.
 
-## Article 13B
+## Article 13B (GOVERNMENT SPENDING LIMITATION)
 
 ### Section 1
 
@@ -5993,7 +5993,7 @@ Trust Fund.  The surtax created by the California Children and
 Families First Act of 1998 shall not be considered General Fund
 revenues for the purposes of Section 8 of Article XVI.
 
-## Article 13C
+## Article 13C (VOTER APPROVAL FOR LOCAL TAX LEVIES)
 
 ### Section 1
 
@@ -6104,7 +6104,7 @@ neither the Legislature nor any local government charter shall impose
 a signature requirement higher than that applicable to statewide
 statutory initiatives.
 
-## Article 13D
+## Article 13D (ASSESSMENT AND PROPERTY-RELATED FEE REFORM)
 
 ### Section 1
 
@@ -6372,7 +6372,7 @@ assessments in the conduct of elections under this subdivision.
 (d) Beginning July 1, 1997, all fees or charges shall comply with
 this section.
 
-## Article 14
+## Article 14 (LABOR RELATIONS)
 
 ### Section 1
 
@@ -6485,7 +6485,7 @@ less than six months, the average for the period of operation.
 (c) Nothing in this section shall be interpreted as creating a
 right of inmates to work.
 
-## Article 15
+## Article 15 (USURY)
 
 ### Section 1
 
@@ -6580,7 +6580,7 @@ shall be 7 percent per annum.
 The provisions of this section shall supersede all provisions of
 this Constitution and laws enacted thereunder in conflict therewith.
 
-## Article 16
+## Article 16 (PUBLIC FINANCE)
 
 ### Section 1
 
@@ -7505,7 +7505,7 @@ General Fund pursuant to paragraph (2).
 shall not be deposited in the sinking fund subaccount and may, by
 statute, be transferred to the General Fund.
 
-## Article 18
+## Article 18 (AMENDING AND REVISING THE CONSTITUTION)
 
 ### Section 1
 
@@ -7538,7 +7538,7 @@ provisions of 2 or more measures approved at the same election
 conflict, those of the measure receiving the highest affirmative vote
 shall prevail.
 
-## Article 19
+## Article 19 (MOTOR VEHICLE REVENUES)
 
 ### Section 1
 
@@ -7728,7 +7728,7 @@ As used in this section, "coastal zone" means "coastal zone" as
 defined by Section 30103 of the Public Resources Code as such zone is
 described on January 1, 1977.
 
-## Article 19A
+## Article 19A (LOANS FROM THE PUBLIC TRANPORTATION ACCOUNT OR LOCAL TRANSPORTATION FUNDS)
 
 ### Section 1
 
@@ -7862,7 +7862,7 @@ transportation funds shall be transmitted in accordance with Section
 transportation funds in accordance with Section 29530 of the
 Government Code, as those sections read on June 30, 2009.
 
-## Article 19B
+## Article 19B (MOTOR VEHICLE FUEL SALES TAX REVENUES AND TRANSPORTATION IMPROVEMENT FUNDING)
 
 ### Section 1
 
@@ -8050,7 +8050,7 @@ article shall apply to any revenues adopted by the Legislature to
 replace the moneys derived from the taxes described in subdivision
 (a).
 
-## Article 19C
+## Article 19C (ENFORCEMENT OF CERTAIN PROVISIONS)
 
 ### Section 1
 
@@ -8091,7 +8091,7 @@ plaintiffs or petitioners to indemnify the government defendants or
 the State of California for any damage the restraining order or
 preliminary injunction may cause.
 
-## Article 20
+## Article 20 (MISCELLANEOUS SUBJECTS)
 
 ### Section 1
 
@@ -8400,7 +8400,7 @@ agency created by the Legislature in the field of public higher
 education which is charged with the management, administration, and
 control of the State College System of California.
 
-## Article 21
+## Article 21 (REDISTRICTING OF SENATE, ASSEMBLY, CONGRESSIONAL AND BOARD OF EQUALIZATION DISTRICTS)
 
 ### Section 1
 
@@ -8586,7 +8586,7 @@ Constitution, or any federal or state statute, the court shall
 fashion the relief that it deems appropriate, including, but not
 limited to, the relief set forth in subdivision (j) of Section 2.
 
-## Article 22
+## Article 22 (ARCHITECTURAL AND ENGINEERING SERVICES)
 
 ### Section 1
 
@@ -8615,7 +8615,7 @@ districts, local and regional agencies and joint power agencies, from
 contracting with private entities for the performance of
 architectural and engineering services.
 
-## Article 34
+## Article 34 (PUBLIC HOUSING PROJECT LAW)
 
 ### Section 1
 
@@ -8677,7 +8677,7 @@ The provisions of this Article shall supersede all
 provisions of this Constitution and laws enacted thereunder in
 conflict therewith.
 
-## Article 35
+## Article 35 (MEDICAL RESEARCH)
 
 ### Section 1
 
