@@ -151,6 +151,6 @@ if __name__ == '__main__':
         download_constitution(CACHE_DIR)
     constitution = parse_constitution(CACHE_DIR)
     f = open("README.md", 'w')
-    f.write(constitution.as_markdown())
+    print >>f, constitution.as_markdown()
     f.close()
 
