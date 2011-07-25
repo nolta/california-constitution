@@ -106,10 +106,23 @@ def parse_preamble(fn):
 def filter_blanks(strings):
     return [s for s in strings if len(s.strip()) > 0]
 
+def read_article(fn):
+    # read file and get rid of \r
+    raw = re.sub(r"\r", "", readfile(fn))
+    # fix inconsistent formatting errors
+    if fn.endswith("article_20"):
+        print "*** fixing 'nor' bug in article 20 ***"
+        a = re.sub(r"\nnor\n", r" nor\n", raw)
+        print "*** fixing extra newlines bug in article 20 ***"
+        b = re.sub(r"\n(\n     (\w|    \())", r"\1", a, flags=re.M)
+        assert raw != a and a != b
+        return b
+    else:
+        return raw
+
 def parse_article(fn):
     number = fn.split('_')[-1]
-    text = readfile(fn)
-    text = re.sub(r"\r", "", text)
+    text = read_article(fn)
     # get article name
     pattern = r"^CALIFORNIA CONSTITUTION\nARTICLE %s  [(\[]?([\w,\- ]+)[)\]]?$" % number
     m = re.search(pattern, text, re.M)
@@ -136,11 +149,21 @@ def parse_section(text):
         else:
             sys.stdout.write(" %s" % number)
         offset = len(m.group(0))
-        return Section(number, parse_paragraphs(text[offset:]))
+        return Section(number, parse_section_text(text[offset:]))
     except:
         print
         print text
         raise
+
+def parse_section_text(text):
+    blocks = filter_blanks(re.split(r"\n\s*\n", text, flags=re.M))
+    paragraphs = []
+    for block in blocks:
+        if block.startswith("    "):
+            paragraphs.append(block)
+        else:
+            paragraphs += parse_paragraphs(block)
+    return paragraphs
 
 def parse_paragraphs(text):
     paragraphs = re.split(r"^ ", text, flags=re.M)

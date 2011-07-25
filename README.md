@@ -3653,13 +3653,10 @@ The Department of Fish and Game shall charge the following
 fees for permits issued pursuant to Section 5 pursuant to the
 following schedule:
 
-Calendar Year               Fee
-
-1991                    $250
-
-1992                     500
-
-1993                   1,000
+                      Calendar Year               Fee
+                          1991                    $250
+                          1992                     500
+                          1993                   1,000
 
 ### Section 7
 
@@ -8127,62 +8124,34 @@ officers and employees as may be by law exempted, shall, before they
 enter upon the duties of their respective offices, take and
 subscribe the following oath or affirmation:
 
-"I, ______, do solemnly swear (or affirm) that I will support
-
-and defend the Constitution of the United States and the Consti-
-
-tution of the State of California against all enemies, foreign
-
-and domestic; that I will bear true faith and allegiance to the
-
-Constitution of the United States and the Constitution of the
-
-State of California; that I take this obligation freely, without
-
-any mental reservation or purpose of evasion; and that I will
-
-well and faithfully discharge the duties upon which I am about
-
-to enter.
-
-"And I do further swear (or affirm) that I do not advocate,
-nor
-
-am I a member of any party or organization, political or other-
-
-wise, that now advocates the overthrow of the Government of the
-
-United States or of the State of California by force or violence
-
-or other unlawful means; that within the five years immediately
-
-preceding the taking of this oath (or affirmation) I have not
-
-been a member of any party or organization, political or other-
-
-wise, that advocated the overthrow of the Government of the
-
-United States or of the State of California by force or violence
-
-or other unlawful means except as follows:
-
-________________________________________________________________
-
-(If no affiliations, write in the words "No Exceptions")
-
-and that during such time as I hold the office of ______________
-
-________________________________ I will not advocate nor become
-
-(name of office)
-
-a member of any party or organization, political or otherwise,
-
-that advocates the overthrow of the Government of the United
-
-States or of the State of California by force or violence or
-
-other unlawful means."
+       "I, ______, do solemnly swear (or affirm) that I will support
+     and defend the Constitution of the United States and the Consti-
+     tution of the State of California against all enemies, foreign
+     and domestic; that I will bear true faith and allegiance to the
+     Constitution of the United States and the Constitution of the
+     State of California; that I take this obligation freely, without
+     any mental reservation or purpose of evasion; and that I will
+     well and faithfully discharge the duties upon which I am about
+     to enter.
+       "And I do further swear (or affirm) that I do not advocate, nor
+     am I a member of any party or organization, political or other-
+     wise, that now advocates the overthrow of the Government of the
+     United States or of the State of California by force or violence
+     or other unlawful means; that within the five years immediately
+     preceding the taking of this oath (or affirmation) I have not
+     been a member of any party or organization, political or other-
+     wise, that advocated the overthrow of the Government of the
+     United States or of the State of California by force or violence
+     or other unlawful means except as follows:
+     ________________________________________________________________
+         (If no affiliations, write in the words "No Exceptions")
+     and that during such time as I hold the office of ______________
+     ________________________________ I will not advocate nor become
+             (name of office)
+     a member of any party or organization, political or otherwise,
+     that advocates the overthrow of the Government of the United
+     States or of the State of California by force or violence or
+     other unlawful means."
 
 And no other oath, declaration, or test, shall be required as a
 qualification for any public office or employment.
